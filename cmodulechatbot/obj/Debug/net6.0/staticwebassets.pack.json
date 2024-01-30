@@ -13,6 +13,382 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\23.jpg",
+      "PackagePath": "staticwebassets\\image\\23.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\26.jpg",
+      "PackagePath": "staticwebassets\\image\\26.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\27.jpg",
+      "PackagePath": "staticwebassets\\image\\27.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\35.jpg",
+      "PackagePath": "staticwebassets\\image\\35.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\38.jpg",
+      "PackagePath": "staticwebassets\\image\\38.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\announced.png",
+      "PackagePath": "staticwebassets\\image\\announced.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\chatbox_icon.png",
+      "PackagePath": "staticwebassets\\image\\chatbox_icon.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\eyebrow-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\eyebrow-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\eyelash-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\eyelash-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery00.jpg",
+      "PackagePath": "staticwebassets\\image\\gallery00.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery01.jpg",
+      "PackagePath": "staticwebassets\\image\\gallery01.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery03.jpg",
+      "PackagePath": "staticwebassets\\image\\gallery03.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery04.png",
+      "PackagePath": "staticwebassets\\image\\gallery04.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery05.png",
+      "PackagePath": "staticwebassets\\image\\gallery05.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery06.png",
+      "PackagePath": "staticwebassets\\image\\gallery06.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery07.png",
+      "PackagePath": "staticwebassets\\image\\gallery07.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery08.png",
+      "PackagePath": "staticwebassets\\image\\gallery08.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery09.png",
+      "PackagePath": "staticwebassets\\image\\gallery09.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery10.png",
+      "PackagePath": "staticwebassets\\image\\gallery10.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery11.png",
+      "PackagePath": "staticwebassets\\image\\gallery11.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery12.png",
+      "PackagePath": "staticwebassets\\image\\gallery12.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery13.png",
+      "PackagePath": "staticwebassets\\image\\gallery13.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery14.png",
+      "PackagePath": "staticwebassets\\image\\gallery14.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery15.png",
+      "PackagePath": "staticwebassets\\image\\gallery15.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery16.png",
+      "PackagePath": "staticwebassets\\image\\gallery16.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery17.png",
+      "PackagePath": "staticwebassets\\image\\gallery17.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery18.png",
+      "PackagePath": "staticwebassets\\image\\gallery18.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery19.png",
+      "PackagePath": "staticwebassets\\image\\gallery19.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery20.png",
+      "PackagePath": "staticwebassets\\image\\gallery20.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery21.png",
+      "PackagePath": "staticwebassets\\image\\gallery21.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery22.png",
+      "PackagePath": "staticwebassets\\image\\gallery22.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery23.png",
+      "PackagePath": "staticwebassets\\image\\gallery23.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery24.png",
+      "PackagePath": "staticwebassets\\image\\gallery24.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery25.png",
+      "PackagePath": "staticwebassets\\image\\gallery25.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery26.png",
+      "PackagePath": "staticwebassets\\image\\gallery26.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery27.png",
+      "PackagePath": "staticwebassets\\image\\gallery27.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery28.png",
+      "PackagePath": "staticwebassets\\image\\gallery28.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery29.png",
+      "PackagePath": "staticwebassets\\image\\gallery29.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery30.png",
+      "PackagePath": "staticwebassets\\image\\gallery30.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery31.png",
+      "PackagePath": "staticwebassets\\image\\gallery31.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery32.png",
+      "PackagePath": "staticwebassets\\image\\gallery32.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery33.png",
+      "PackagePath": "staticwebassets\\image\\gallery33.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery34.png",
+      "PackagePath": "staticwebassets\\image\\gallery34.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery35.png",
+      "PackagePath": "staticwebassets\\image\\gallery35.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery36.png",
+      "PackagePath": "staticwebassets\\image\\gallery36.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery37.png",
+      "PackagePath": "staticwebassets\\image\\gallery37.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery38.png",
+      "PackagePath": "staticwebassets\\image\\gallery38.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery39.png",
+      "PackagePath": "staticwebassets\\image\\gallery39.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery40.png",
+      "PackagePath": "staticwebassets\\image\\gallery40.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery41.png",
+      "PackagePath": "staticwebassets\\image\\gallery41.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery42.png",
+      "PackagePath": "staticwebassets\\image\\gallery42.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery43.png",
+      "PackagePath": "staticwebassets\\image\\gallery43.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery44.png",
+      "PackagePath": "staticwebassets\\image\\gallery44.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery45.png",
+      "PackagePath": "staticwebassets\\image\\gallery45.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery46.png",
+      "PackagePath": "staticwebassets\\image\\gallery46.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery47.png",
+      "PackagePath": "staticwebassets\\image\\gallery47.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery48.png",
+      "PackagePath": "staticwebassets\\image\\gallery48.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery49.png",
+      "PackagePath": "staticwebassets\\image\\gallery49.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery50.png",
+      "PackagePath": "staticwebassets\\image\\gallery50.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery51.png",
+      "PackagePath": "staticwebassets\\image\\gallery51.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery52.png",
+      "PackagePath": "staticwebassets\\image\\gallery52.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery53.png",
+      "PackagePath": "staticwebassets\\image\\gallery53.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery54.png",
+      "PackagePath": "staticwebassets\\image\\gallery54.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery55.png",
+      "PackagePath": "staticwebassets\\image\\gallery55.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery56.png",
+      "PackagePath": "staticwebassets\\image\\gallery56.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery57.png",
+      "PackagePath": "staticwebassets\\image\\gallery57.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery58.png",
+      "PackagePath": "staticwebassets\\image\\gallery58.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery59.png",
+      "PackagePath": "staticwebassets\\image\\gallery59.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery60.png",
+      "PackagePath": "staticwebassets\\image\\gallery60.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery61.png",
+      "PackagePath": "staticwebassets\\image\\gallery61.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery62.png",
+      "PackagePath": "staticwebassets\\image\\gallery62.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery63.png",
+      "PackagePath": "staticwebassets\\image\\gallery63.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gallery64.png",
+      "PackagePath": "staticwebassets\\image\\gallery64.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\gel-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\gel-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\img_05.jpg",
+      "PackagePath": "staticwebassets\\image\\img_05.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\lash.jpg",
+      "PackagePath": "staticwebassets\\image\\lash.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\leafs.png",
+      "PackagePath": "staticwebassets\\image\\leafs.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\logo.jpg",
+      "PackagePath": "staticwebassets\\image\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\mani-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\mani-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\manicure-1.jpg",
+      "PackagePath": "staticwebassets\\image\\manicure-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\manicure-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\manicure-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\manicure-2.jpg",
+      "PackagePath": "staticwebassets\\image\\manicure-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\massage.jpg",
+      "PackagePath": "staticwebassets\\image\\massage.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nail1.jpg",
+      "PackagePath": "staticwebassets\\image\\nail1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nail2.jpg",
+      "PackagePath": "staticwebassets\\image\\nail2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nail3.jpg",
+      "PackagePath": "staticwebassets\\image\\nail3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nail4.jpg",
+      "PackagePath": "staticwebassets\\image\\nail4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nail5.jpg",
+      "PackagePath": "staticwebassets\\image\\nail5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nails-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\nails-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nik.jpg",
+      "PackagePath": "staticwebassets\\image\\nik.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\nik.png",
+      "PackagePath": "staticwebassets\\image\\nik.png"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\parallax_05.jpg",
+      "PackagePath": "staticwebassets\\image\\parallax_05.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\pedicure-110x110.jpg",
+      "PackagePath": "staticwebassets\\image\\pedicure-110x110.jpg"
+    },
+    {
+      "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\image\\pedicure-240x240.jpg",
+      "PackagePath": "staticwebassets\\image\\pedicure-240x240.jpg"
+    },
+    {
       "Id": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
