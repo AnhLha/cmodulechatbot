@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OU4iOi2xt398d0W1bDSR2Tl+mekmjYMxPzVglSlOENemMZThbhC92HqeKnwG3VvdK4sqAWjSNSwvGLnWN262zA==",
+  "dgSpecHash": "ewNB5q1TFdA/1YrLpixuMhw0EDrdux4+Ame7hb2ca3PVcrIEmXu4EWAuo7OZN0fEsg934axyW+b4R/4qB+rhWg==",
   "success": true,
   "projectFilePath": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lxchien\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

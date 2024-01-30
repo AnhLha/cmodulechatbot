@@ -1,8 +1,110 @@
-﻿@{
+﻿@model IEnumerable<WeatherModel>
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="main">
+
+        <div class="time_container">
+            <h3>Choose branch</h3>
+            <div class="row">
+                <select class="text_box">
+                </select>
+            </div>
+
+            <h3>Business Hours</h3>
+            <ul class="time_list">
+                <li>
+                    <span class="day">Mon</span>
+                    <span class="time">10AM - 7:30PM</span>
+                </li>
+                <li>
+                    <span class="day">Tue</span>
+                    <span class="time">10AM - 7:30PM</span>
+                </li>
+                <li>
+                    <span class="day">Wed</span>
+                    <span class="time">10AM - 7:30PM</span>
+                </li>
+                <li>
+                    <span class="day">Thu</span>
+                    <span class="time">10AM - 7:30PM</span>
+                </li>
+                <li>
+                    <span class="day">Fri</span>
+                    <span class="time">10AM - 7:30PM</span>
+                </li>
+                <li>
+                    <span class="day">Sat</span>
+                    <span class="time">9:30AM - 7PM</span>
+                </li>
+                <li>
+                    <span class="day">Sun</span>
+                    <span class="time">11:30AM - 6PM</span>
+                </li>
+            </ul>
+        </div>
+
+        <div class="booking_container">
+            <div class="title_container">
+                <h3>Book Appointment</h3>
+                <h3>5 Off For Make Online Appointment All Services</h3>
+                <p>Please book appointment online at least 2 hours in advance. If you in a hurry, please call (817) 508-8777 for availability.</p>
+            </div>
+
+            <div class="form_container">
+                <div class="row">
+                    <input class="text_box" placeholder="Name" />
+                    <input class="text_box" placeholder="Phone" />
+                </div>
+
+                <div class="row">
+                    <input class="text_box" placeholder="Date" type="date"/>
+                    <select class="text_box">
+                        <option value="" selected disabled hidden>Time</option>
+                    </select>
+                </div>
+
+        <!-- Service -->
+
+                <div class="form-group">
+                    <table class="table table-responsive" style="width:400px">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.summary)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.temperatureC)
+                            </th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.summary)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.temperatureC)
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+
+                 <div class="row">
+                    <a class="button" href="#">+ Service</a>
+                 </div>
+
+                 <div class="row">
+                    <textarea class="text_area" rows="4" placeholder="Message & special request">
+                        </textarea>
+                 </div>
+
+                 <div class="row">
+                     <a class="button">Book it</a>
+                 </div>
+            </div>
+        </div>
+    </div>
 </div>

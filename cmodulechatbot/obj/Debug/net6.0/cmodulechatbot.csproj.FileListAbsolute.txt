@@ -29,3 +29,5 @@ D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\obj\Debug\net6.0\refint\
 D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\obj\Debug\net6.0\cmodulechatbot.pdb
 D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\obj\Debug\net6.0\cmodulechatbot.genruntimeconfig.cache
 D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\obj\Debug\net6.0\ref\cmodulechatbot.dll
+D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\cmodulechatbot\cmodulechatbot\cmodulechatbot\obj\Debug\net6.0\cmodulechatbot.csproj.CopyComplete
