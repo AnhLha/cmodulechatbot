@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
-using System.Dynamic;
 
 namespace cmodulechatbot.Controllers
 {
@@ -11,9 +10,9 @@ namespace cmodulechatbot.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private string Baseurl = "http://localhost:3000/";
-        private IndexViewModel IndexViewModel;
-        private string ServicesList = "[{ 'name': 'Manicure - The Royal CBD','price': 60,'description': '','image': 'manicureImage' }, { 'name': 'Pedicure - The Royal CBD', 'price': 88, 'description': '', 'image': 'pedicureImage' }, { 'name': 'Eyelash extention - Fill','price': 60, 'description': '',image:'eyeLashImage' }, { 'name': 'Waxing - Eyebrows',  'price': 10,   'description': '','image': 'eyeBrowImage' }]";
-
+        private IndexViewModel IndexViewModel = new IndexViewModel();
+        //private string ServicesList = "\"[{ \\\"name\\\": \\\"Manicure - The Royal CBD\\\",\\\"price\\\": 60,\\\"description\\\": \\\"\\\",\\\"image\\\": \\\"manicureImage\\\" }, { \\\"name\\\": \\\"Pedicure - The Royal CBD\\\", \\\"price\\\": 88, \\\"description\\\": \\\"\\\", \\\"image\\\": \\\"pedicureImage\\\" }, { \\\"name\\\": \\\"Eyelash extention - Fill\\\",\\\"price\\\": 60, \\\"description\\\": \\\"\\\",\\\"image\\\":\\\"eyeLashImage\\\" }, { \\\"name\\\": \\\"Waxing - Eyebrows\\\",  \\\"price\\\": 10,   \\\"description\\\": \\\"\\\",\\\"image\\\": \\\"eyeBrowImage\\\" }]\"";
+        
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -41,7 +40,11 @@ namespace cmodulechatbot.Controllers
                     IndexViewModel.setListWeather(JsonConvert.DeserializeObject<List<WeatherModel>>(weatherResponse));
                 }
                 //returning the employee list to view
-                IndexViewModel.setListService(JsonConvert.DeserializeObject<List<ServiceModel>>(ServicesList));
+                List<ServiceModel> serviceModels = new List<ServiceModel>();
+                serviceModels.Add(new ServiceModel("Manicure - The Royal CBD", 60, "", "manicure-110x110.jpg"));
+                serviceModels.Add(new ServiceModel("Pedicure - The Royal CBD", 88, "", "pedicure-110x110.jpg"));
+                serviceModels.Add(new ServiceModel("Eyelash extention - Fill", 70, "", "eyelash-110x110.jpg"));
+                IndexViewModel.setListService(serviceModels);
                 //IndexViewModel.setListService();
                 return View(IndexViewModel);
             }

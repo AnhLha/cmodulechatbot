@@ -17,8 +17,9 @@ body {
   margin-bottom: 60px;
 }
 
-a{
-
+a {
+    text-decoration: none;
+    cursor: pointer;
 }
 
 #__next {
@@ -275,6 +276,8 @@ a{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    flex-direction:column;
+
 }
 
     .services_container .service {
@@ -504,4 +507,19 @@ a{
                 margin: 0px;
             }
 }
- 
+
+.services_menu {
+    display: flex;
+}
+
+.services_list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+
+.right_image {
+    display: flex;
+    flex-grow: 1;
+}

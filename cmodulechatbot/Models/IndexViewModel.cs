@@ -5,12 +5,12 @@
         public IEnumerable<WeatherModel> ListWeather;
         public IEnumerable<ServiceModel> ListService;
 
-        IndexViewModel()
+        public IndexViewModel()
         {
         
         }
 
-        IndexViewModel(IEnumerable<WeatherModel> _ListWeather, IEnumerable<ServiceModel> _ListService)
+        public IndexViewModel(IEnumerable<WeatherModel> _ListWeather, IEnumerable<ServiceModel> _ListService)
         {
             ListWeather = _ListWeather;
             ListService = _ListService;
