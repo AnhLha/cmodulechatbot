@@ -1,0 +1,8 @@
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\cmodulechatbot.exe
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\cmodulechatbot.dll
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\cmodulechatbot.deps.json
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\cmodulechatbot.runtimeconfig.json
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\cmodulechatbot.pdb
+C:\booking\cmodulechatbot\cmodulechatbot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

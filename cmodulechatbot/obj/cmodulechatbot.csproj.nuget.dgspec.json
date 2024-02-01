@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj": {}
+    "C:\\booking\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj": {}
   },
   "projects": {
-    "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj": {
+    "C:\\booking\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj",
+        "projectUniqueName": "C:\\booking\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj",
         "projectName": "cmodulechatbot",
-        "projectPath": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj",
-        "packagesPath": "C:\\Users\\lxchien\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot\\obj\\",
+        "projectPath": "C:\\booking\\cmodulechatbot\\cmodulechatbot\\cmodulechatbot.csproj",
+        "packagesPath": "C:\\Users\\cmcadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\booking\\cmodulechatbot\\cmodulechatbot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lxchien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cmcadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

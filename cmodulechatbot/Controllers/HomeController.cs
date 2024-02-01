@@ -25,20 +25,20 @@ namespace cmodulechatbot.Controllers
             using (var client = new HttpClient())
             {
                 //Passing service base url
-                client.BaseAddress = new Uri(Baseurl);
-                client.DefaultRequestHeaders.Clear();
+                //client.BaseAddress = new Uri(Baseurl);
+                //client.DefaultRequestHeaders.Clear();
                 //Define request data format
-                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                //client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 //Sending request to find web api REST service resource GetAllEmployees using HttpClient
-                HttpResponseMessage Res = await client.GetAsync("WeatherForecast");
+                //HttpResponseMessage Res = await client.GetAsync("WeatherForecast");
                 //Checking the response is successful or not which is sent using HttpClient
-                if (Res.IsSuccessStatusCode)
-                {
-                    //Storing the response details recieved from web api
-                    var weatherResponse = Res.Content.ReadAsStringAsync().Result;
-                    //Deserializing the response recieved from web api and storing into the Employee list
-                    IndexViewModel.setListWeather(JsonConvert.DeserializeObject<List<WeatherModel>>(weatherResponse));
-                }
+                //if (Res.IsSuccessStatusCode)
+                //{
+                //Storing the response details recieved from web api
+                //var weatherResponse = Res.Content.ReadAsStringAsync().Result;
+                //Deserializing the response recieved from web api and storing into the Employee list
+                //IndexViewModel.setListWeather(JsonConvert.DeserializeObject<List<WeatherModel>>(weatherResponse));
+                //}
                 //returning the employee list to view
                 List<ServiceModel> serviceModels = new List<ServiceModel>();
                 serviceModels.Add(new ServiceModel("Manicure - The Royal CBD", 60, "", "manicure-110x110.jpg"));
